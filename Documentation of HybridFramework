@@ -1,0 +1,39 @@
+How to Execute Test Cases:
+Method 1: Run TC by TestNG of each TC - Done (Right Click --> Run --> TestNG Test)
+Method 2: Run TC through TestNG.xml file - Done
+
+Method 3: Run TC through pom.xml - 
+-> First add two plugins in between dependencies and properties
+<!-- Plug-ins Required For Executing Tests -->
+<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+		<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.18.1</version>
+				<configuration>
+					<suiteXmlFiles>
+						<!-- TestNG suite XML files -->
+						<suiteXmlFile>testng.xml</suiteXmlFile>
+					</suiteXmlFiles>
+				</configuration>
+			</plugin>
+		
+		</plugins>
+	
+	</build>
+-> Then Update the Maven and Run the Maven Test
+
+Method 4: Run TC through Command Line
+
+Method 5: Run TC through run.bat
+
+Method 6: Run TC through Jenkins (using bat file)

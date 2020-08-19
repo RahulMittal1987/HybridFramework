@@ -1,0 +1,299 @@
+2020-08-08 13:59:34,582 [main] INFO HybridFramework - URL Opened
+2020-08-08 13:59:34,859 [main] INFO HybridFramework - Entered UserName
+2020-08-08 13:59:34,982 [main] INFO HybridFramework - Entered Password
+2020-08-08 13:59:36,769 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 15:03:49,828 [main] INFO HybridFramework - URL Opened
+2020-08-08 15:03:50,106 [main] INFO HybridFramework - Entered UserName
+2020-08-08 15:03:50,251 [main] INFO HybridFramework - Entered Password
+2020-08-08 15:03:52,195 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 15:05:34,100 [main] INFO HybridFramework - URL Opened
+2020-08-08 15:05:36,368 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 15:05:38,765 [main] INFO HybridFramework - Entered UserName
+2020-08-08 15:05:39,211 [main] INFO HybridFramework - Entered Password
+2020-08-08 15:05:41,235 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 15:32:27,718 [main] INFO HybridFramework - URL Opened
+2020-08-08 15:32:30,105 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 15:32:30,430 [main] INFO HybridFramework - Entered UserName
+2020-08-08 15:32:30,558 [main] INFO HybridFramework - Entered Password
+2020-08-08 15:33:09,971 [main] INFO HybridFramework - URL Opened
+2020-08-08 15:33:12,351 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 15:33:14,474 [main] INFO HybridFramework - Entered UserName
+2020-08-08 15:33:14,620 [main] INFO HybridFramework - Entered Password
+2020-08-08 15:34:29,995 [main] INFO HybridFramework - URL Opened
+2020-08-08 15:34:32,184 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 15:34:33,089 [main] INFO HybridFramework - Entered UserName
+2020-08-08 15:34:35,445 [main] INFO HybridFramework - Entered Password
+2020-08-08 15:34:37,563 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 15:35:56,099 [main] INFO HybridFramework - URL Opened
+2020-08-08 15:35:56,409 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 15:35:56,696 [main] INFO HybridFramework - Entered UserName
+2020-08-08 15:35:56,789 [main] INFO HybridFramework - Entered Password
+2020-08-08 15:36:29,771 [main] INFO HybridFramework - URL Opened
+2020-08-08 15:36:30,116 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 15:36:30,386 [main] INFO HybridFramework - Entered UserName
+2020-08-08 15:36:30,489 [main] INFO HybridFramework - Entered Password
+2020-08-08 15:37:11,958 [main] INFO HybridFramework - URL Opened
+2020-08-08 15:37:12,266 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 15:37:12,604 [main] INFO HybridFramework - Entered UserName
+2020-08-08 15:37:12,724 [main] INFO HybridFramework - Entered Password
+2020-08-08 15:38:01,806 [main] INFO HybridFramework - URL Opened
+2020-08-08 15:38:02,100 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 15:38:02,413 [main] INFO HybridFramework - Entered UserName
+2020-08-08 15:38:02,718 [main] INFO HybridFramework - Entered Password
+2020-08-08 16:23:48,481 [main] INFO HybridFramework - URL Opened
+2020-08-08 16:23:51,276 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 16:23:51,603 [main] INFO HybridFramework - Entered UserName
+2020-08-08 16:23:51,819 [main] INFO HybridFramework - Entered Password
+2020-08-08 16:24:24,382 [main] INFO HybridFramework - URL Opened
+2020-08-08 16:24:26,563 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 16:24:26,891 [main] INFO HybridFramework - Entered UserName
+2020-08-08 16:24:28,073 [main] INFO HybridFramework - Entered Password
+2020-08-08 16:27:08,478 [main] INFO HybridFramework - URL Opened
+2020-08-08 16:27:11,113 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 16:27:11,482 [main] INFO HybridFramework - Entered UserName
+2020-08-08 16:27:11,631 [main] INFO HybridFramework - Entered Password
+2020-08-08 16:28:11,266 [main] INFO HybridFramework - URL Opened
+2020-08-08 16:28:13,956 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 16:28:16,227 [main] INFO HybridFramework - Entered UserName
+2020-08-08 16:28:16,477 [main] INFO HybridFramework - Entered Password
+2020-08-08 16:28:18,722 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 16:35:48,670 [main] INFO HybridFramework - URL Opened
+2020-08-08 16:35:51,078 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 16:35:51,410 [main] INFO HybridFramework - Entered UserName
+2020-08-08 16:35:51,849 [main] INFO HybridFramework - Entered Password
+2020-08-08 16:48:25,430 [main] INFO HybridFramework - URL Opened
+2020-08-08 16:48:27,654 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 16:48:29,800 [main] INFO HybridFramework - Entered UserName
+2020-08-08 16:48:29,946 [main] INFO HybridFramework - Entered Password
+2020-08-08 16:48:32,604 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 16:50:02,457 [main] INFO HybridFramework - URL Opened
+2020-08-08 16:50:05,054 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 16:50:05,285 [main] INFO HybridFramework - Entered UserName
+2020-08-08 16:50:05,440 [main] INFO HybridFramework - Entered Password
+2020-08-08 18:36:16,765 [main] INFO HybridFramework - URL Opened
+2020-08-08 18:36:19,125 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 18:36:19,387 [main] INFO HybridFramework - Entered UserName
+2020-08-08 18:36:19,650 [main] INFO HybridFramework - Entered Password
+2020-08-08 18:36:35,284 [main] INFO HybridFramework - UserName Provided
+2020-08-08 18:36:35,491 [main] INFO HybridFramework - Password Provided
+2020-08-08 18:36:42,560 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 18:38:57,568 [main] INFO HybridFramework - URL Opened
+2020-08-08 18:39:00,332 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 18:39:00,609 [main] INFO HybridFramework - Entered UserName
+2020-08-08 18:39:00,818 [main] INFO HybridFramework - Entered Password
+2020-08-08 18:39:15,579 [main] INFO HybridFramework - UserName Provided
+2020-08-08 18:39:15,837 [main] INFO HybridFramework - Password Provided
+2020-08-08 18:39:17,577 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 18:40:02,172 [main] INFO HybridFramework - URL Opened
+2020-08-08 18:40:04,376 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 18:40:04,608 [main] INFO HybridFramework - Entered UserName
+2020-08-08 18:40:04,742 [main] INFO HybridFramework - Entered Password
+2020-08-08 18:40:06,966 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 18:40:17,574 [main] INFO HybridFramework - UserName Provided
+2020-08-08 18:40:17,693 [main] INFO HybridFramework - Password Provided
+2020-08-08 18:40:19,939 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 18:42:42,417 [main] INFO HybridFramework - URL Opened
+2020-08-08 18:42:44,801 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 18:42:45,046 [main] INFO HybridFramework - Entered UserName
+2020-08-08 18:42:45,159 [main] INFO HybridFramework - Entered Password
+2020-08-08 18:43:42,462 [main] INFO HybridFramework - UserName Provided
+2020-08-08 18:43:42,652 [main] INFO HybridFramework - Password Provided
+2020-08-08 18:43:44,665 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 18:45:55,015 [main] INFO HybridFramework - URL Opened
+2020-08-08 18:45:57,238 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 18:45:57,809 [main] INFO HybridFramework - Entered UserName
+2020-08-08 18:45:59,759 [main] INFO HybridFramework - Entered Password
+2020-08-08 18:46:02,190 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 18:46:11,325 [main] INFO HybridFramework - UserName Provided
+2020-08-08 18:46:11,527 [main] INFO HybridFramework - Password Provided
+2020-08-08 18:46:13,666 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 18:46:13,694 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 18:47:17,586 [main] INFO HybridFramework - URL Opened
+2020-08-08 18:47:20,012 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 18:47:20,371 [main] INFO HybridFramework - Entered UserName
+2020-08-08 18:47:20,525 [main] INFO HybridFramework - Entered Password
+2020-08-08 18:47:32,916 [main] INFO HybridFramework - UserName Provided
+2020-08-08 18:47:33,023 [main] INFO HybridFramework - Password Provided
+2020-08-08 18:47:35,334 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 18:49:20,303 [main] INFO HybridFramework - UserName Provided
+2020-08-08 18:49:20,447 [main] INFO HybridFramework - Password Provided
+2020-08-08 18:49:22,569 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 18:50:16,410 [main] INFO HybridFramework - UserName Provided
+2020-08-08 18:50:16,625 [main] INFO HybridFramework - Password Provided
+2020-08-08 18:50:18,496 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 18:51:37,718 [main] INFO HybridFramework - UserName Provided
+2020-08-08 18:51:37,858 [main] INFO HybridFramework - Password Provided
+2020-08-08 18:51:39,753 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 18:52:26,130 [main] INFO HybridFramework - UserName Provided
+2020-08-08 18:52:26,361 [main] INFO HybridFramework - Password Provided
+2020-08-08 18:52:28,495 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 19:01:45,081 [main] INFO HybridFramework - UserName Provided
+2020-08-08 19:01:45,220 [main] INFO HybridFramework - Password Provided
+2020-08-08 19:01:51,464 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 19:03:46,192 [main] INFO HybridFramework - UserName Provided
+2020-08-08 19:03:46,336 [main] INFO HybridFramework - Password Provided
+2020-08-08 19:03:52,396 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 19:06:01,106 [main] INFO HybridFramework - UserName Provided
+2020-08-08 19:06:01,316 [main] INFO HybridFramework - Password Provided
+2020-08-08 19:06:08,322 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 19:08:25,240 [main] INFO HybridFramework - UserName Provided
+2020-08-08 19:08:25,669 [main] INFO HybridFramework - Password Provided
+2020-08-08 19:08:29,792 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 19:12:28,910 [main] INFO HybridFramework - UserName Provided
+2020-08-08 19:12:29,044 [main] INFO HybridFramework - Password Provided
+2020-08-08 19:12:35,710 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 19:17:13,216 [main] INFO HybridFramework - UserName Provided
+2020-08-08 19:17:13,411 [main] INFO HybridFramework - Password Provided
+2020-08-08 19:17:19,438 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 19:19:33,116 [main] INFO HybridFramework - UserName Provided
+2020-08-08 19:19:33,291 [main] INFO HybridFramework - Password Provided
+2020-08-08 19:19:38,601 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 19:21:17,511 [main] INFO HybridFramework - UserName Provided
+2020-08-08 19:21:17,656 [main] INFO HybridFramework - Password Provided
+2020-08-08 19:21:22,992 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 20:36:35,403 [main] INFO HybridFramework - UserName Provided
+2020-08-08 20:36:35,545 [main] INFO HybridFramework - Password Provided
+2020-08-08 20:36:41,341 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 20:41:44,845 [main] INFO HybridFramework - UserName Provided
+2020-08-08 20:41:45,006 [main] INFO HybridFramework - Password Provided
+2020-08-08 20:41:50,303 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 20:49:51,807 [main] INFO HybridFramework - UserName Provided
+2020-08-08 20:49:52,002 [main] INFO HybridFramework - Password Provided
+2020-08-08 20:49:57,253 [main] INFO HybridFramework - UserName Provided
+2020-08-08 20:49:57,378 [main] INFO HybridFramework - Password Provided
+2020-08-08 20:50:01,910 [main] INFO HybridFramework - Login Test Passed.
+2020-08-08 20:53:28,970 [main] INFO HybridFramework - UserName Provided
+2020-08-08 20:53:29,080 [main] INFO HybridFramework - Password Provided
+2020-08-08 20:53:34,274 [main] INFO HybridFramework - UserName Provided
+2020-08-08 20:53:34,392 [main] INFO HybridFramework - Password Provided
+2020-08-08 20:53:41,089 [main] INFO HybridFramework - Login Test Passed.
+2020-08-08 20:56:50,152 [main] INFO HybridFramework - UserName Provided
+2020-08-08 20:56:50,287 [main] INFO HybridFramework - Password Provided
+2020-08-08 20:56:55,290 [main] INFO HybridFramework - UserName Provided
+2020-08-08 20:56:55,479 [main] INFO HybridFramework - Password Provided
+2020-08-08 20:57:01,490 [main] INFO HybridFramework - Login Test Passed.Application Title is Mached.
+2020-08-08 20:59:08,868 [main] INFO HybridFramework - UserName Provided
+2020-08-08 20:59:09,248 [main] INFO HybridFramework - Password Provided
+2020-08-08 20:59:15,799 [main] INFO HybridFramework - UserName Provided
+2020-08-08 20:59:15,930 [main] INFO HybridFramework - Password Provided
+2020-08-08 20:59:21,232 [main] INFO HybridFramework - UserName Provided
+2020-08-08 20:59:21,363 [main] INFO HybridFramework - Password Provided
+2020-08-08 20:59:26,157 [main] INFO HybridFramework - Login Test Passed.Application Title is Mached.
+2020-08-08 20:59:55,309 [main] INFO HybridFramework - UserName Provided
+2020-08-08 20:59:55,497 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:00:00,481 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:00:00,659 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:00:06,215 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:00:06,332 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:00:11,579 [main] INFO HybridFramework - Login Test Passed.Application Title is Mached.
+2020-08-08 21:01:42,479 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:01:42,677 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:01:48,153 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:01:48,292 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:01:53,669 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:01:53,779 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:01:58,527 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 21:02:48,342 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:02:48,506 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:02:53,430 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:02:53,638 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:02:59,643 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:02:59,769 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:03:05,178 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 21:04:30,331 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:04:30,484 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:04:35,968 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:04:36,113 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:04:41,330 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:04:41,426 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:04:47,077 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 21:06:36,375 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:06:36,583 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:06:41,594 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:06:41,743 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:06:48,237 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 21:06:56,016 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:06:56,129 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:07:01,389 [main] INFO HybridFramework - UserName Provided
+2020-08-08 21:07:01,505 [main] INFO HybridFramework - Password Provided
+2020-08-08 21:07:06,050 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 22:05:06,392 [main] INFO HybridFramework - UserName Provided
+2020-08-08 22:05:06,533 [main] INFO HybridFramework - Passsword Provided
+2020-08-08 22:05:13,086 [main] INFO HybridFramework - providing customer details....
+2020-08-08 22:05:24,876 [main] INFO HybridFramework - validation started....
+2020-08-08 22:05:24,922 [main] INFO HybridFramework - Add New Customer Test Case Passed Successfully!!
+2020-08-08 22:05:55,609 [main] INFO HybridFramework - UserName Provided
+2020-08-08 22:05:55,745 [main] INFO HybridFramework - Passsword Provided
+2020-08-08 22:06:01,870 [main] INFO HybridFramework - providing customer details....
+2020-08-08 22:06:14,171 [main] INFO HybridFramework - validation started....
+2020-08-08 22:06:14,202 [main] INFO HybridFramework - Add New Customer Test Case Passed Successfully!!
+2020-08-08 22:07:45,694 [main] INFO HybridFramework - UserName Provided
+2020-08-08 22:07:45,842 [main] INFO HybridFramework - Passsword Provided
+2020-08-08 22:07:52,393 [main] INFO HybridFramework - providing customer details....
+2020-08-08 22:08:02,762 [main] INFO HybridFramework - validation started....
+2020-08-08 22:10:31,573 [main] INFO HybridFramework - URL Opened
+2020-08-08 22:10:33,789 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-08 22:10:34,038 [main] INFO HybridFramework - Entered UserName
+2020-08-08 22:10:34,157 [main] INFO HybridFramework - Entered Password
+2020-08-08 22:10:35,743 [main] INFO HybridFramework - Login Test Passed
+2020-08-08 22:10:49,718 [main] INFO HybridFramework - UserName Provided
+2020-08-08 22:10:49,878 [main] INFO HybridFramework - Password Provided
+2020-08-08 22:10:55,704 [main] INFO HybridFramework - UserName Provided
+2020-08-08 22:10:55,849 [main] INFO HybridFramework - Password Provided
+2020-08-08 22:11:01,317 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 22:11:07,674 [main] INFO HybridFramework - UserName Provided
+2020-08-08 22:11:07,802 [main] INFO HybridFramework - Password Provided
+2020-08-08 22:11:14,306 [main] INFO HybridFramework - UserName Provided
+2020-08-08 22:11:14,450 [main] INFO HybridFramework - Password Provided
+2020-08-08 22:11:19,046 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 22:11:37,827 [main] INFO HybridFramework - UserName Provided
+2020-08-08 22:11:39,420 [main] INFO HybridFramework - Passsword Provided
+2020-08-08 22:11:44,964 [main] INFO HybridFramework - Providing Customer Details....
+2020-08-08 22:11:56,759 [main] INFO HybridFramework - validation started....
+2020-08-08 22:11:56,810 [main] INFO HybridFramework - Add New Customer Test Case Passed Successfully!!
+2020-08-08 22:15:32,255 [main] INFO HybridFramework - UserName Provided
+2020-08-08 22:15:32,422 [main] INFO HybridFramework - Password Provided
+2020-08-08 22:15:36,918 [main] INFO HybridFramework - Login Successfully!
+2020-08-08 22:15:43,939 [main] INFO HybridFramework - UserName Provided
+2020-08-08 22:15:44,084 [main] INFO HybridFramework - Password Provided
+2020-08-08 22:15:48,747 [main] INFO HybridFramework - Login Successfully!
+2020-08-09 10:14:08,455 [main] INFO HybridFramework - URL Opened
+2020-08-09 10:14:11,574 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-09 10:14:12,022 [main] INFO HybridFramework - Entered UserName
+2020-08-09 10:14:12,216 [main] INFO HybridFramework - Entered Password
+2020-08-09 10:14:30,669 [main] INFO HybridFramework - UserName Provided
+2020-08-09 10:14:30,852 [main] INFO HybridFramework - Password Provided
+2020-08-09 10:14:35,782 [main] INFO HybridFramework - Login Successfully!
+2020-08-09 10:14:41,408 [main] INFO HybridFramework - UserName Provided
+2020-08-09 10:14:41,543 [main] INFO HybridFramework - Password Provided
+2020-08-09 10:14:46,362 [main] INFO HybridFramework - Login Successfully!
+2020-08-09 10:14:52,608 [main] INFO HybridFramework - UserName Provided
+2020-08-09 10:14:52,876 [main] INFO HybridFramework - Password Provided
+2020-08-09 10:14:57,427 [main] INFO HybridFramework - Login Successfully!
+2020-08-09 10:15:03,729 [main] INFO HybridFramework - UserName Provided
+2020-08-09 10:15:04,040 [main] INFO HybridFramework - Password Provided
+2020-08-09 10:15:08,689 [main] INFO HybridFramework - Login Successfully!
+2020-08-09 10:15:25,498 [main] INFO HybridFramework - UserName Provided
+2020-08-09 10:15:25,701 [main] INFO HybridFramework - Passsword Provided
+2020-08-09 10:15:30,953 [main] INFO HybridFramework - Providing Customer Details....
+2020-08-09 10:15:42,679 [main] INFO HybridFramework - validation started....
+2020-08-09 10:15:42,739 [main] INFO HybridFramework - Add New Customer Test Case Passed Successfully!!
+2020-08-09 20:01:20,113 [main] INFO HybridFramework - URL Opened
+2020-08-09 20:01:22,387 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-09 20:01:23,334 [main] INFO HybridFramework - Entered UserName
+2020-08-09 20:01:23,584 [main] INFO HybridFramework - Entered Password
+2020-08-09 20:01:36,971 [main] INFO HybridFramework - UserName Provided
+2020-08-09 20:01:37,852 [main] INFO HybridFramework - Passsword Provided
+2020-08-09 20:01:44,844 [main] INFO HybridFramework - Providing Customer Details....
+2020-08-09 20:01:56,063 [main] INFO HybridFramework - validation started....
+2020-08-09 20:01:56,097 [main] INFO HybridFramework - Add New Customer Test Case Passed Successfully!!
+2020-08-09 20:30:06,388 [main] INFO HybridFramework - URL Opened
+2020-08-09 20:30:09,678 [main] INFO HybridFramework - Browser Window Maximized
+2020-08-09 20:30:12,818 [main] INFO HybridFramework - Entered UserName
+2020-08-09 20:30:13,098 [main] INFO HybridFramework - Entered Password
+2020-08-09 20:30:14,814 [main] INFO HybridFramework - Login Test Passed
+2020-08-09 20:30:31,336 [main] INFO HybridFramework - UserName Provided
+2020-08-09 20:30:31,544 [main] INFO HybridFramework - Passsword Provided
+2020-08-09 20:30:37,260 [main] INFO HybridFramework - Providing Customer Details....
+2020-08-09 20:30:48,300 [main] INFO HybridFramework - validation started....
+2020-08-09 20:30:48,335 [main] INFO HybridFramework - Add New Customer Test Case Passed Successfully!!

@@ -1,0 +1,9 @@
+com\HybridFramework\TestCases\TC_LoginTest_001.class
+com\HybridFramework\Utilities\Reporting.class
+com\HybridFramework\Utilities\ReadConfig.class
+com\HybridFramework\Utilities\XLUtils.class
+com\HybridFramework\PageObjects\AddCustomerPage.class
+com\HybridFramework\PageObjects\LoginPage.class
+com\HybridFramework\TestCases\TC_AddCustomerTest_003.class
+com\HybridFramework\TestCases\BaseClass.class
+com\HybridFramework\TestCases\TC_LoginDDT_002.class

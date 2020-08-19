@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HybridFramework" duration-ms="65818" started-at="2020-08-09T14:59:43Z" finished-at="2020-08-09T15:00:49Z">
+    <groups>
+    </groups>
+    <test name="HybridFramework Test" duration-ms="65818" started-at="2020-08-09T14:59:43Z" finished-at="2020-08-09T15:00:49Z">
+      <class name="com.HybridFramework.TestCases.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.HybridFramework.TestCases.TC_AddCustomerTest_003@6cd8737]" name="setup" is-config="true" duration-ms="9355" started-at="2020-08-09T15:00:16Z" finished-at="2020-08-09T15:00:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AddNewCustomer()[pri:0, instance:com.HybridFramework.TestCases.TC_AddCustomerTest_003@6cd8737]" name="AddNewCustomer" duration-ms="22647" started-at="2020-08-09T15:00:25Z" finished-at="2020-08-09T15:00:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HybridFramework.TestCases.TC_AddCustomerTest_003@6cd8737]" name="tearDown" is-config="true" duration-ms="1272" started-at="2020-08-09T15:00:48Z" finished-at="2020-08-09T15:00:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HybridFramework.TestCases.TC_AddCustomerTest_003 -->
+      <class name="com.HybridFramework.TestCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.HybridFramework.TestCases.TC_LoginTest_001@6bf256fa]" name="setup" is-config="true" duration-ms="21392" started-at="2020-08-09T14:59:44Z" finished-at="2020-08-09T15:00:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.HybridFramework.TestCases.TC_LoginTest_001@6bf256fa]" name="loginTest" duration-ms="8428" started-at="2020-08-09T15:00:06Z" finished-at="2020-08-09T15:00:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HybridFramework.TestCases.TC_LoginTest_001@6bf256fa]" name="tearDown" is-config="true" duration-ms="1496" started-at="2020-08-09T15:00:14Z" finished-at="2020-08-09T15:00:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HybridFramework.TestCases.TC_LoginTest_001 -->
+    </test> <!-- HybridFramework Test -->
+  </suite> <!-- HybridFramework -->
+</testng-results>

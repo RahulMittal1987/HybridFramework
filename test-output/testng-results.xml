@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HybridFramework" duration-ms="105428" started-at="2020-08-09T04:43:58Z" finished-at="2020-08-09T04:45:43Z">
+    <groups>
+    </groups>
+    <test name="HybridFramework Test" duration-ms="105428" started-at="2020-08-09T04:43:58Z" finished-at="2020-08-09T04:45:43Z">
+      <class name="com.HybridFramework.TestCases.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.HybridFramework.TestCases.TC_AddCustomerTest_003@2f686d1f]" name="setup" is-config="true" duration-ms="7555" started-at="2020-08-09T04:45:15Z" finished-at="2020-08-09T04:45:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AddNewCustomer()[pri:0, instance:com.HybridFramework.TestCases.TC_AddCustomerTest_003@2f686d1f]" name="AddNewCustomer" duration-ms="19902" started-at="2020-08-09T04:45:22Z" finished-at="2020-08-09T04:45:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HybridFramework.TestCases.TC_AddCustomerTest_003@2f686d1f]" name="tearDown" is-config="true" duration-ms="902" started-at="2020-08-09T04:45:42Z" finished-at="2020-08-09T04:45:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HybridFramework.TestCases.TC_AddCustomerTest_003 -->
+      <class name="com.HybridFramework.TestCases.TC_LoginDDT_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.HybridFramework.TestCases.TC_LoginDDT_002@4cf777e8]" name="setup" is-config="true" duration-ms="8252" started-at="2020-08-09T04:44:15Z" finished-at="2020-08-09T04:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.HybridFramework.TestCases.TC_LoginDDT_002@4cf777e8]" name="LoginDDT" duration-ms="14172" started-at="2020-08-09T04:44:27Z" data-provider="LoginData" finished-at="2020-08-09T04:44:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr277108]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vAhYvEm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginDDT -->
+        <test-method status="PASS" signature="LoginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.HybridFramework.TestCases.TC_LoginDDT_002@4cf777e8]" name="LoginDDT" duration-ms="11166" started-at="2020-08-09T04:44:41Z" data-provider="LoginData" finished-at="2020-08-09T04:44:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr277108]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vAhYvEm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginDDT -->
+        <test-method status="PASS" signature="LoginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.HybridFramework.TestCases.TC_LoginDDT_002@4cf777e8]" name="LoginDDT" duration-ms="11109" started-at="2020-08-09T04:44:52Z" data-provider="LoginData" finished-at="2020-08-09T04:45:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr277108]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vAhYvEm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginDDT -->
+        <test-method status="PASS" signature="LoginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.HybridFramework.TestCases.TC_LoginDDT_002@4cf777e8]" name="LoginDDT" duration-ms="10941" started-at="2020-08-09T04:45:03Z" data-provider="LoginData" finished-at="2020-08-09T04:45:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr277108]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vAhYvEm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HybridFramework.TestCases.TC_LoginDDT_002@4cf777e8]" name="tearDown" is-config="true" duration-ms="818" started-at="2020-08-09T04:45:14Z" finished-at="2020-08-09T04:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HybridFramework.TestCases.TC_LoginDDT_002 -->
+      <class name="com.HybridFramework.TestCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.HybridFramework.TestCases.TC_LoginTest_001@59ec2012]" name="setup" is-config="true" duration-ms="9826" started-at="2020-08-09T04:43:58Z" finished-at="2020-08-09T04:44:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="loginTest()[pri:0, instance:com.HybridFramework.TestCases.TC_LoginTest_001@59ec2012]" name="loginTest" duration-ms="6175" started-at="2020-08-09T04:44:08Z" finished-at="2020-08-09T04:44:14Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertTrue(Assert.java:44)
+at org.testng.Assert.assertTrue(Assert.java:54)
+at com.HybridFramework.TestCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:38)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HybridFramework.TestCases.TC_LoginTest_001@59ec2012]" name="tearDown" is-config="true" duration-ms="1061" started-at="2020-08-09T04:44:14Z" finished-at="2020-08-09T04:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HybridFramework.TestCases.TC_LoginTest_001 -->
+    </test> <!-- HybridFramework Test -->
+  </suite> <!-- HybridFramework -->
+</testng-results>
